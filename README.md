@@ -10,112 +10,112 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2024-11-24 09:55:50 +0800`
+`更新时间：2024-11-24 11:03:53 +0800`
 
 ## 今日热门仓库
 
 1. [black-forest-labs / flux](https://github.com/black-forest-labs/flux)
     - Official inference repo for FLUX.1 models
-    - language: **Python** &nbsp;&nbsp; stars: **16,544** &nbsp;&nbsp; folks: **1,192**  &nbsp;&nbsp; `73 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **16,569** &nbsp;&nbsp; folks: **1,193**  &nbsp;&nbsp; `73 stars today`
 
 1. [mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe)
     - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
-    - language: **Rust** &nbsp;&nbsp; stars: **9,852** &nbsp;&nbsp; folks: **582**  &nbsp;&nbsp; `110 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **9,866** &nbsp;&nbsp; folks: **583**  &nbsp;&nbsp; `110 stars today`
 
 1. [FreeCAD / FreeCAD](https://github.com/FreeCAD/FreeCAD)
     - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-    - language: **C++** &nbsp;&nbsp; stars: **20,825** &nbsp;&nbsp; folks: **4,117**  &nbsp;&nbsp; `234 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **20,829** &nbsp;&nbsp; folks: **4,117**  &nbsp;&nbsp; `234 stars today`
 
 1. [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
     - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-    - language: **Python** &nbsp;&nbsp; stars: **60,741** &nbsp;&nbsp; folks: **7,456**  &nbsp;&nbsp; `95 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **60,757** &nbsp;&nbsp; folks: **7,457**  &nbsp;&nbsp; `95 stars today`
 
 1. [flutter / flutter](https://github.com/flutter/flutter)
     - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    - language: **Dart** &nbsp;&nbsp; stars: **166,620** &nbsp;&nbsp; folks: **27,600**  &nbsp;&nbsp; `144 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **166,623** &nbsp;&nbsp; folks: **27,600**  &nbsp;&nbsp; `144 stars today`
 
 1. [gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app)
     - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,957** &nbsp;&nbsp; folks: **2,299**  &nbsp;&nbsp; `265 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,975** &nbsp;&nbsp; folks: **2,302**  &nbsp;&nbsp; `265 stars today`
 
 1. [shader-slang / slang](https://github.com/shader-slang/slang)
     - Making it easier to work with shaders
-    - language: **C++** &nbsp;&nbsp; stars: **2,644** &nbsp;&nbsp; folks: **202**  &nbsp;&nbsp; `106 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **2,650** &nbsp;&nbsp; folks: **203**  &nbsp;&nbsp; `106 stars today`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **HTML** &nbsp;&nbsp; stars: **339,074** &nbsp;&nbsp; folks: **61,752**  &nbsp;&nbsp; `280 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **339,083** &nbsp;&nbsp; folks: **61,752**  &nbsp;&nbsp; `280 stars today`
 
 1. [awslabs / multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
     - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,956** &nbsp;&nbsp; folks: **129**  &nbsp;&nbsp; `159 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,967** &nbsp;&nbsp; folks: **130**  &nbsp;&nbsp; `159 stars today`
 
 1. [openai / openai-cookbook](https://github.com/openai/openai-cookbook)
     - Examples and guides for using the OpenAI API
-    - language: **MDX** &nbsp;&nbsp; stars: **60,202** &nbsp;&nbsp; folks: **9,570**  &nbsp;&nbsp; `201 stars today`
+    - language: **MDX** &nbsp;&nbsp; stars: **60,209** &nbsp;&nbsp; folks: **9,569**  &nbsp;&nbsp; `201 stars today`
 
 1. [twentyhq / twenty](https://github.com/twentyhq/twenty)
     - Building a modern alternative to Salesforce, powered by the community.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **23,311** &nbsp;&nbsp; folks: **2,420**  &nbsp;&nbsp; `190 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **23,320** &nbsp;&nbsp; folks: **2,421**  &nbsp;&nbsp; `190 stars today`
 
 1. [primefaces / primevue](https://github.com/primefaces/primevue)
     - Next Generation Vue UI Component Library
-    - language: **Vue** &nbsp;&nbsp; stars: **10,748** &nbsp;&nbsp; folks: **1,241**  &nbsp;&nbsp; `11 stars today`
+    - language: **Vue** &nbsp;&nbsp; stars: **10,758** &nbsp;&nbsp; folks: **1,242**  &nbsp;&nbsp; `11 stars today`
 
 1. [dream-num / univer](https://github.com/dream-num/univer)
     - Univer is an Isomorphic Full-Stack Framework for Creating and Editing Spreadsheets, Docs, and Slides Across Web and Server
-    - language: **TypeScript** &nbsp;&nbsp; stars: **7,341** &nbsp;&nbsp; folks: **639**  &nbsp;&nbsp; `22 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **7,355** &nbsp;&nbsp; folks: **640**  &nbsp;&nbsp; `22 stars today`
 
 1. [FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
     - The iconic SVG, font, and CSS toolkit
-    - language: **JavaScript** &nbsp;&nbsp; stars: **74,031** &nbsp;&nbsp; folks: **12,199**  &nbsp;&nbsp; `15 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **74,039** &nbsp;&nbsp; folks: **12,200**  &nbsp;&nbsp; `15 stars today`
 
 
 ## 近一周热门仓库
 
 1. [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
     - This is a repo with links to everything you'd ever want to learn about data engineering
-    - language: **Makefile** &nbsp;&nbsp; stars: **20,561** &nbsp;&nbsp; folks: **3,095**  &nbsp;&nbsp; `7,060 stars this week`
+    - language: **Makefile** &nbsp;&nbsp; stars: **20,571** &nbsp;&nbsp; folks: **3,102**  &nbsp;&nbsp; `7,060 stars this week`
 
 1. [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade)
     - Free, open source crypto trading bot
-    - language: **Python** &nbsp;&nbsp; stars: **31,098** &nbsp;&nbsp; folks: **6,348**  &nbsp;&nbsp; `2,214 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **31,101** &nbsp;&nbsp; folks: **6,349**  &nbsp;&nbsp; `2,214 stars this week`
 
 1. [twentyhq / twenty](https://github.com/twentyhq/twenty)
     - Building a modern alternative to Salesforce, powered by the community.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **23,311** &nbsp;&nbsp; folks: **2,420**  &nbsp;&nbsp; `2,978 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **23,320** &nbsp;&nbsp; folks: **2,421**  &nbsp;&nbsp; `2,978 stars this week`
 
 1. [blacklanternsecurity / bbot](https://github.com/blacklanternsecurity/bbot)
     - A recursive internet scanner for hackers. 🧡
-    - language: **Python** &nbsp;&nbsp; stars: **6,807** &nbsp;&nbsp; folks: **517**  &nbsp;&nbsp; `1,373 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,810** &nbsp;&nbsp; folks: **517**  &nbsp;&nbsp; `1,373 stars this week`
 
 1. [microsoft / TinyTroupe](https://github.com/microsoft/TinyTroupe)
     - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
-    - language: **Python** &nbsp;&nbsp; stars: **4,205** &nbsp;&nbsp; folks: **293**  &nbsp;&nbsp; `1,196 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **4,207** &nbsp;&nbsp; folks: **293**  &nbsp;&nbsp; `1,196 stars this week`
 
 1. [ai16z / eliza](https://github.com/ai16z/eliza)
     - Conversational Agent for Twitter and Discord
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,005** &nbsp;&nbsp; folks: **531**  &nbsp;&nbsp; `936 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,008** &nbsp;&nbsp; folks: **531**  &nbsp;&nbsp; `936 stars this week`
 
 1. [payloadcms / payload](https://github.com/payloadcms/payload)
     - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **27,996** &nbsp;&nbsp; folks: **1,736**  &nbsp;&nbsp; `2,340 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **27,999** &nbsp;&nbsp; folks: **1,736**  &nbsp;&nbsp; `2,340 stars this week`
 
 1. [Bin-Huang / chatbox](https://github.com/Bin-Huang/chatbox)
     - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **22,855** &nbsp;&nbsp; folks: **2,279**  &nbsp;&nbsp; `1,024 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **22,857** &nbsp;&nbsp; folks: **2,279**  &nbsp;&nbsp; `1,024 stars this week`
 
 1. [khoj-ai / khoj](https://github.com/khoj-ai/khoj)
     - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).
-    - language: **Python** &nbsp;&nbsp; stars: **15,988** &nbsp;&nbsp; folks: **791**  &nbsp;&nbsp; `905 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **15,992** &nbsp;&nbsp; folks: **792**  &nbsp;&nbsp; `905 stars this week`
 
 1. [bluesky-social / atproto](https://github.com/bluesky-social/atproto)
     - Social networking technology created by Bluesky
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,930** &nbsp;&nbsp; folks: **495**  &nbsp;&nbsp; `259 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,934** &nbsp;&nbsp; folks: **496**  &nbsp;&nbsp; `259 stars this week`
 
 1. [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
     - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,284** &nbsp;&nbsp; folks: **1,524**  &nbsp;&nbsp; `1,428 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,286** &nbsp;&nbsp; folks: **1,524**  &nbsp;&nbsp; `1,428 stars this week`
 
 1. [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
     - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
@@ -123,11 +123,11 @@
 
 1. [bluesky-social / social-app](https://github.com/bluesky-social/social-app)
     - The Bluesky Social application for Web, iOS, and Android
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,955** &nbsp;&nbsp; folks: **1,530**  &nbsp;&nbsp; `822 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,958** &nbsp;&nbsp; folks: **1,530**  &nbsp;&nbsp; `822 stars this week`
 
 1. [krahets / hello-algo](https://github.com/krahets/hello-algo)
     - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-    - language: **Java** &nbsp;&nbsp; stars: **99,760** &nbsp;&nbsp; folks: **12,558**  &nbsp;&nbsp; `1,377 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **99,763** &nbsp;&nbsp; folks: **12,559**  &nbsp;&nbsp; `1,377 stars this week`
 
 1. [tursodatabase / libsql](https://github.com/tursodatabase/libsql)
     - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -143,15 +143,15 @@
 
 1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
     - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
-    - language: **Python** &nbsp;&nbsp; stars: **18,234** &nbsp;&nbsp; folks: **1,305**  &nbsp;&nbsp; `1,584 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **18,241** &nbsp;&nbsp; folks: **1,305**  &nbsp;&nbsp; `1,584 stars this week`
 
 1. [xtekky / gpt4free](https://github.com/xtekky/gpt4free)
     - The official gpt4free repository | various collection of powerful language models
-    - language: **Python** &nbsp;&nbsp; stars: **62,162** &nbsp;&nbsp; folks: **13,378**  &nbsp;&nbsp; `1,039 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **62,163** &nbsp;&nbsp; folks: **13,379**  &nbsp;&nbsp; `1,039 stars this week`
 
 1. [mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe)
     - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
-    - language: **Rust** &nbsp;&nbsp; stars: **9,852** &nbsp;&nbsp; folks: **582**  &nbsp;&nbsp; `870 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **9,866** &nbsp;&nbsp; folks: **583**  &nbsp;&nbsp; `870 stars this week`
 
 
 ## 近一月热门仓库
@@ -162,31 +162,31 @@
 
 1. [dockur / windows](https://github.com/dockur/windows)
     - Windows inside a Docker container.
-    - language: **Shell** &nbsp;&nbsp; stars: **29,603** &nbsp;&nbsp; folks: **2,018**  &nbsp;&nbsp; `11,837 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **29,606** &nbsp;&nbsp; folks: **2,021**  &nbsp;&nbsp; `11,837 stars this month`
 
 1. [vercel / ai-chatbot](https://github.com/vercel/ai-chatbot)
     - A full-featured, hackable Next.js AI chatbot built by Vercel
-    - language: **TypeScript** &nbsp;&nbsp; stars: **9,735** &nbsp;&nbsp; folks: **2,452**  &nbsp;&nbsp; `3,241 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **9,738** &nbsp;&nbsp; folks: **2,452**  &nbsp;&nbsp; `3,241 stars this month`
 
 1. [abi / screenshot-to-code](https://github.com/abi/screenshot-to-code)
     - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-    - language: **Python** &nbsp;&nbsp; stars: **60,741** &nbsp;&nbsp; folks: **7,456**  &nbsp;&nbsp; `4,043 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **60,757** &nbsp;&nbsp; folks: **7,457**  &nbsp;&nbsp; `4,043 stars this month`
 
 1. [twentyhq / twenty](https://github.com/twentyhq/twenty)
     - Building a modern alternative to Salesforce, powered by the community.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **23,311** &nbsp;&nbsp; folks: **2,420**  &nbsp;&nbsp; `5,802 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **23,320** &nbsp;&nbsp; folks: **2,421**  &nbsp;&nbsp; `5,802 stars this month`
 
 1. [opendatalab / MinerU](https://github.com/opendatalab/MinerU)
     - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
-    - language: **Python** &nbsp;&nbsp; stars: **18,234** &nbsp;&nbsp; folks: **1,305**  &nbsp;&nbsp; `5,114 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,241** &nbsp;&nbsp; folks: **1,305**  &nbsp;&nbsp; `5,114 stars this month`
 
 1. [Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern)
     - Automate browser-based workflows with LLMs and Computer Vision
-    - language: **Python** &nbsp;&nbsp; stars: **10,609** &nbsp;&nbsp; folks: **727**  &nbsp;&nbsp; `4,648 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,610** &nbsp;&nbsp; folks: **727**  &nbsp;&nbsp; `4,648 stars this month`
 
 1. [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade)
     - Free, open source crypto trading bot
-    - language: **Python** &nbsp;&nbsp; stars: **31,098** &nbsp;&nbsp; folks: **6,348**  &nbsp;&nbsp; `2,636 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **31,101** &nbsp;&nbsp; folks: **6,349**  &nbsp;&nbsp; `2,636 stars this month`
 
 1. [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)
     - 🙌 OpenHands: Code Less, Make More
@@ -194,27 +194,27 @@
 
 1. [khoj-ai / khoj](https://github.com/khoj-ai/khoj)
     - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).
-    - language: **Python** &nbsp;&nbsp; stars: **15,988** &nbsp;&nbsp; folks: **791**  &nbsp;&nbsp; `3,215 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,992** &nbsp;&nbsp; folks: **792**  &nbsp;&nbsp; `3,215 stars this month`
 
 1. [payloadcms / payload](https://github.com/payloadcms/payload)
     - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **27,996** &nbsp;&nbsp; folks: **1,736**  &nbsp;&nbsp; `3,430 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **27,999** &nbsp;&nbsp; folks: **1,736**  &nbsp;&nbsp; `3,430 stars this month`
 
 1. [microsoft / autogen](https://github.com/microsoft/autogen)
     - A programming framework for agentic AI 🤖
-    - language: **Python** &nbsp;&nbsp; stars: **34,725** &nbsp;&nbsp; folks: **5,016**  &nbsp;&nbsp; `2,566 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **34,727** &nbsp;&nbsp; folks: **5,017**  &nbsp;&nbsp; `2,566 stars this month`
 
 1. [bluesky-social / social-app](https://github.com/bluesky-social/social-app)
     - The Bluesky Social application for Web, iOS, and Android
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,955** &nbsp;&nbsp; folks: **1,530**  &nbsp;&nbsp; `2,783 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,958** &nbsp;&nbsp; folks: **1,530**  &nbsp;&nbsp; `2,783 stars this month`
 
 1. [dgtlmoon / changedetection.io](https://github.com/dgtlmoon/changedetection.io)
     - The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
-    - language: **Python** &nbsp;&nbsp; stars: **19,556** &nbsp;&nbsp; folks: **1,055**  &nbsp;&nbsp; `2,196 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **19,557** &nbsp;&nbsp; folks: **1,055**  &nbsp;&nbsp; `2,196 stars this month`
 
 1. [mingrammer / diagrams](https://github.com/mingrammer/diagrams)
     - 🎨 Diagram as Code for prototyping cloud system architectures
-    - language: **Python** &nbsp;&nbsp; stars: **39,596** &nbsp;&nbsp; folks: **2,541**  &nbsp;&nbsp; `2,161 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **39,597** &nbsp;&nbsp; folks: **2,541**  &nbsp;&nbsp; `2,161 stars this month`
 
 1. [yamadashy / repomix](https://github.com/yamadashy/repomix)
     - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
@@ -222,19 +222,19 @@
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **15,573** &nbsp;&nbsp; folks: **835**  &nbsp;&nbsp; `5,006 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **15,578** &nbsp;&nbsp; folks: **835**  &nbsp;&nbsp; `5,006 stars this month`
 
 1. [bluesky-social / atproto](https://github.com/bluesky-social/atproto)
     - Social networking technology created by Bluesky
-    - language: **TypeScript** &nbsp;&nbsp; stars: **6,930** &nbsp;&nbsp; folks: **495**  &nbsp;&nbsp; `631 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **6,934** &nbsp;&nbsp; folks: **496**  &nbsp;&nbsp; `631 stars this month`
 
 1. [kolbytn / mindcraft](https://github.com/kolbytn/mindcraft)
     - 无
-    - language: **JavaScript** &nbsp;&nbsp; stars: **2,270** &nbsp;&nbsp; folks: **273**  &nbsp;&nbsp; `1,112 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,272** &nbsp;&nbsp; folks: **273**  &nbsp;&nbsp; `1,112 stars this month`
 
 1. [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet)
     - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-    - language: **JavaScript** &nbsp;&nbsp; stars: **33,113** &nbsp;&nbsp; folks: **4,285**  &nbsp;&nbsp; `2,733 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **33,115** &nbsp;&nbsp; folks: **4,285**  &nbsp;&nbsp; `2,733 stars this month`
 
 
 ## 历史归档
