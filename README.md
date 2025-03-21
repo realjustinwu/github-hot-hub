@@ -10,175 +10,175 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-03-21 07:21:45 +0800`
+`更新时间：2025-03-21 09:52:01 +0800`
 
 ## 今日热门仓库
 
 1. [SakanaAI / AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
     - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,794** &nbsp;&nbsp; folks: **1,440**  &nbsp;&nbsp; `113 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **9,858** &nbsp;&nbsp; folks: **1,446**  &nbsp;&nbsp; `154 stars today`
 
 1. [sinclairtarget / git-who](https://github.com/sinclairtarget/git-who)
     - Git blame for file trees
-    - language: **Go** &nbsp;&nbsp; stars: **965** &nbsp;&nbsp; folks: **18**  &nbsp;&nbsp; `303 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,022** &nbsp;&nbsp; folks: **21**  &nbsp;&nbsp; `286 stars today`
 
 1. [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView)
     - Universal File Online Preview Project based on Spring-Boot
-    - language: **Java** &nbsp;&nbsp; stars: **11,800** &nbsp;&nbsp; folks: **2,871**  &nbsp;&nbsp; `114 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **11,832** &nbsp;&nbsp; folks: **2,876**  &nbsp;&nbsp; `116 stars today`
 
 1. [satnaing / shadcn-admin](https://github.com/satnaing/shadcn-admin)
     - Admin Dashboard UI built with Shadcn and Vite.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **5,295** &nbsp;&nbsp; folks: **689**  &nbsp;&nbsp; `431 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **5,336** &nbsp;&nbsp; folks: **692**  &nbsp;&nbsp; `433 stars today`
 
 1. [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE)
     - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **48,082** &nbsp;&nbsp; folks: **3,166**  &nbsp;&nbsp; `650 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **48,125** &nbsp;&nbsp; folks: **3,167**  &nbsp;&nbsp; `637 stars today`
 
 1. [hotheadhacker / awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
     - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-    - language: **HTML** &nbsp;&nbsp; stars: **1,450** &nbsp;&nbsp; folks: **54**  &nbsp;&nbsp; `266 stars today`
+    - language: **HTML** &nbsp;&nbsp; stars: **1,507** &nbsp;&nbsp; folks: **55**  &nbsp;&nbsp; `272 stars today`
 
 1. [microsoft / data-formulator](https://github.com/microsoft/data-formulator)
     - 🪄 Create rich visualizations with AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **10,159** &nbsp;&nbsp; folks: **793**  &nbsp;&nbsp; `592 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **10,210** &nbsp;&nbsp; folks: **796**  &nbsp;&nbsp; `580 stars today`
 
 1. [subframe7536 / maple-font](https://github.com/subframe7536/maple-font)
     - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-    - language: **Python** &nbsp;&nbsp; stars: **10,909** &nbsp;&nbsp; folks: **229**  &nbsp;&nbsp; `832 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **10,981** &nbsp;&nbsp; folks: **230**  &nbsp;&nbsp; `829 stars today`
 
 1. [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
     - 💯 Curated coding interview preparation materials for busy software engineers
-    - language: **TypeScript** &nbsp;&nbsp; stars: **123,897** &nbsp;&nbsp; folks: **15,168**  &nbsp;&nbsp; `593 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **123,947** &nbsp;&nbsp; folks: **15,170**  &nbsp;&nbsp; `597 stars today`
 
 1. [cloudflare / mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)
     - 无
-    - language: **TypeScript** &nbsp;&nbsp; stars: **768** &nbsp;&nbsp; folks: **50**  &nbsp;&nbsp; `116 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **805** &nbsp;&nbsp; folks: **51**  &nbsp;&nbsp; `83 stars today`
 
 
 ## 近一周热门仓库
 
-1. [langchain-ai / ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+1. [langchain-ai / local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)
     - Fully local web research and report writing assistant
-    - language: **Python** &nbsp;&nbsp; stars: **5,830** &nbsp;&nbsp; folks: **570**  &nbsp;&nbsp; `2,664 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **5,846** &nbsp;&nbsp; folks: **571**  &nbsp;&nbsp; `3,100 stars this week`
 
 1. [patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
     - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,270** &nbsp;&nbsp; folks: **1,107**  &nbsp;&nbsp; `1,329 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **6,278** &nbsp;&nbsp; folks: **1,108**  &nbsp;&nbsp; `1,652 stars this week`
 
 1. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
     - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **413,818** &nbsp;&nbsp; folks: **39,447**  &nbsp;&nbsp; `2,264 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **413,830** &nbsp;&nbsp; folks: **39,448**  &nbsp;&nbsp; `1,981 stars this week`
 
 1. [executeautomation / mcp-playwright](https://github.com/executeautomation/mcp-playwright)
     - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-    - language: **TypeScript** &nbsp;&nbsp; stars: **1,194** &nbsp;&nbsp; folks: **111**  &nbsp;&nbsp; `569 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **1,205** &nbsp;&nbsp; folks: **111**  &nbsp;&nbsp; `633 stars this week`
 
 1. [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
     - A collection of MCP servers.
-    - language: **无** &nbsp;&nbsp; stars: **13,138** &nbsp;&nbsp; folks: **851**  &nbsp;&nbsp; `4,310 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **13,186** &nbsp;&nbsp; folks: **852**  &nbsp;&nbsp; `4,682 stars this week`
 
 1. [microsoft / TypeScript](https://github.com/microsoft/TypeScript)
     - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **103,605** &nbsp;&nbsp; folks: **12,755**  &nbsp;&nbsp; `902 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **103,610** &nbsp;&nbsp; folks: **12,755**  &nbsp;&nbsp; `589 stars this week`
 
 1. [makeplane / plane](https://github.com/makeplane/plane)
     - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **34,276** &nbsp;&nbsp; folks: **2,095**  &nbsp;&nbsp; `852 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **34,290** &nbsp;&nbsp; folks: **2,095**  &nbsp;&nbsp; `892 stars this week`
 
 1. [uutils / coreutils](https://github.com/uutils/coreutils)
     - Cross-platform Rust rewrite of the GNU coreutils
-    - language: **Rust** &nbsp;&nbsp; stars: **19,429** &nbsp;&nbsp; folks: **1,383**  &nbsp;&nbsp; `879 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **19,432** &nbsp;&nbsp; folks: **1,383**  &nbsp;&nbsp; `898 stars this week`
 
 1. [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
     - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    - language: **Java** &nbsp;&nbsp; stars: **21,277** &nbsp;&nbsp; folks: **2,340**  &nbsp;&nbsp; `1,189 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **21,292** &nbsp;&nbsp; folks: **2,341**  &nbsp;&nbsp; `835 stars this week`
 
 1. [johnbean393 / Sidekick](https://github.com/johnbean393/Sidekick)
     - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
-    - language: **Swift** &nbsp;&nbsp; stars: **2,429** &nbsp;&nbsp; folks: **78**  &nbsp;&nbsp; `1,051 stars this week`
+    - language: **Swift** &nbsp;&nbsp; stars: **2,437** &nbsp;&nbsp; folks: **78**  &nbsp;&nbsp; `936 stars this week`
 
 1. [yuaotian / go-cursor-help](https://github.com/yuaotian/go-cursor-help)
     - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    - language: **Shell** &nbsp;&nbsp; stars: **15,878** &nbsp;&nbsp; folks: **2,007**  &nbsp;&nbsp; `2,465 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **15,903** &nbsp;&nbsp; folks: **2,007**  &nbsp;&nbsp; `2,436 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [geekan / MetaGPT](https://github.com/geekan/MetaGPT)
     - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    - language: **Python** &nbsp;&nbsp; stars: **53,069** &nbsp;&nbsp; folks: **6,282**  &nbsp;&nbsp; `6,631 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **53,079** &nbsp;&nbsp; folks: **6,283**  &nbsp;&nbsp; `6,499 stars this month`
 
 1. [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird)
     - Truly independent web browser
-    - language: **C++** &nbsp;&nbsp; stars: **36,126** &nbsp;&nbsp; folks: **1,509**  &nbsp;&nbsp; `8,118 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **36,130** &nbsp;&nbsp; folks: **1,509**  &nbsp;&nbsp; `8,168 stars this month`
 
 1. [langgenius / dify](https://github.com/langgenius/dify)
     - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **84,174** &nbsp;&nbsp; folks: **12,425**  &nbsp;&nbsp; `14,656 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **84,207** &nbsp;&nbsp; folks: **12,432**  &nbsp;&nbsp; `14,431 stars this month`
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **18,529** &nbsp;&nbsp; folks: **3,322**  &nbsp;&nbsp; `9,641 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,546** &nbsp;&nbsp; folks: **3,326**  &nbsp;&nbsp; `9,878 stars this month`
 
 1. [glanceapp / glance](https://github.com/glanceapp/glance)
     - A self-hosted dashboard that puts all your feeds in one place
-    - language: **Go** &nbsp;&nbsp; stars: **19,366** &nbsp;&nbsp; folks: **687**  &nbsp;&nbsp; `8,032 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **19,385** &nbsp;&nbsp; folks: **687**  &nbsp;&nbsp; `8,631 stars this month`
 
 1. [sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
     - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-    - language: **Python** &nbsp;&nbsp; stars: **18,310** &nbsp;&nbsp; folks: **1,703**  &nbsp;&nbsp; `3,754 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **18,321** &nbsp;&nbsp; folks: **1,704**  &nbsp;&nbsp; `3,683 stars this month`
 
 1. [langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research)
     - 无
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,381** &nbsp;&nbsp; folks: **317**  &nbsp;&nbsp; `1,749 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **2,384** &nbsp;&nbsp; folks: **319**  &nbsp;&nbsp; `1,772 stars this month`
 
 1. [ValveSoftware / source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013)
     - The 2013 edition of the Source SDK
-    - language: **C++** &nbsp;&nbsp; stars: **8,503** &nbsp;&nbsp; folks: **2,540**  &nbsp;&nbsp; `3,461 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **8,503** &nbsp;&nbsp; folks: **2,540**  &nbsp;&nbsp; `2,367 stars this month`
 
 1. [gorhill / uBlock](https://github.com/gorhill/uBlock)
     - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **51,814** &nbsp;&nbsp; folks: **3,395**  &nbsp;&nbsp; `2,150 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **51,813** &nbsp;&nbsp; folks: **3,395**  &nbsp;&nbsp; `2,131 stars this month`
 
 1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
     - 10 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,841** &nbsp;&nbsp; folks: **1,596**  &nbsp;&nbsp; `2,357 stars this month`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,848** &nbsp;&nbsp; folks: **1,598**  &nbsp;&nbsp; `2,341 stars this month`
 
 1. [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
     - Master programming by recreating your favorite technologies from scratch.
-    - language: **Markdown** &nbsp;&nbsp; stars: **360,703** &nbsp;&nbsp; folks: **33,487**  &nbsp;&nbsp; `24,035 stars this month`
+    - language: **Markdown** &nbsp;&nbsp; stars: **360,759** &nbsp;&nbsp; folks: **33,494**  &nbsp;&nbsp; `24,266 stars this month`
 
 1. [svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
     - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    - language: **无** &nbsp;&nbsp; stars: **4,388** &nbsp;&nbsp; folks: **463**  &nbsp;&nbsp; `1,397 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **4,394** &nbsp;&nbsp; folks: **463**  &nbsp;&nbsp; `1,451 stars this month`
 
 1. [FreeTubeApp / FreeTube](https://github.com/FreeTubeApp/FreeTube)
     - An Open Source YouTube app for privacy
-    - language: **JavaScript** &nbsp;&nbsp; stars: **17,100** &nbsp;&nbsp; folks: **1,099**  &nbsp;&nbsp; `2,857 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **17,106** &nbsp;&nbsp; folks: **1,099**  &nbsp;&nbsp; `2,860 stars this month`
 
 1. [n8n-io / n8n](https://github.com/n8n-io/n8n)
     - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **69,122** &nbsp;&nbsp; folks: **17,763**  &nbsp;&nbsp; `7,204 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **69,161** &nbsp;&nbsp; folks: **17,768**  &nbsp;&nbsp; `7,397 stars this month`
 
 1. [jingyaogong / minimind](https://github.com/jingyaogong/minimind)
     - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    - language: **Python** &nbsp;&nbsp; stars: **16,585** &nbsp;&nbsp; folks: **1,833**  &nbsp;&nbsp; `6,122 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **16,594** &nbsp;&nbsp; folks: **1,834**  &nbsp;&nbsp; `5,685 stars this month`
 
 1. [78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
     - Build your own AI friend
-    - language: **C++** &nbsp;&nbsp; stars: **9,441** &nbsp;&nbsp; folks: **1,696**  &nbsp;&nbsp; `4,045 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **9,449** &nbsp;&nbsp; folks: **1,698**  &nbsp;&nbsp; `3,975 stars this month`
 
 1. [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
     - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    - language: **Java** &nbsp;&nbsp; stars: **21,277** &nbsp;&nbsp; folks: **2,340**  &nbsp;&nbsp; `2,100 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **21,292** &nbsp;&nbsp; folks: **2,341**  &nbsp;&nbsp; `2,203 stars this month`
 
 1. [huggingface / lerobot](https://github.com/huggingface/lerobot)
     - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    - language: **Python** &nbsp;&nbsp; stars: **10,587** &nbsp;&nbsp; folks: **1,165**  &nbsp;&nbsp; `1,402 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **10,592** &nbsp;&nbsp; folks: **1,167**  &nbsp;&nbsp; `1,444 stars this month`
 
 1. [PySpur-Dev / pyspur](https://github.com/PySpur-Dev/pyspur)
     - A visual playground for agentic workflows: Iterate over your agents 10x faster
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,683** &nbsp;&nbsp; folks: **244**  &nbsp;&nbsp; `2,143 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,694** &nbsp;&nbsp; folks: **245**  &nbsp;&nbsp; `2,172 stars this month`
 
 
 ## 历史归档
