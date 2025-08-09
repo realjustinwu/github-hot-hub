@@ -10,108 +10,108 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-08-09 22:23:34 +0800`
+`更新时间：2025-08-09 23:25:37 +0800`
 
 ## 今日热门仓库
 
 1. [openai / codex](https://github.com/openai/codex)
     - Lightweight coding agent that runs in your terminal
-    - language: **Rust** &nbsp;&nbsp; stars: **33,198** &nbsp;&nbsp; folks: **3,843**  &nbsp;&nbsp; `611 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **33,233** &nbsp;&nbsp; folks: **3,843**  &nbsp;&nbsp; `611 stars today`
 
 1. [xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
     - 简简单单的看直播
-    - language: **Dart** &nbsp;&nbsp; stars: **11,969** &nbsp;&nbsp; folks: **831**  &nbsp;&nbsp; `132 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **11,977** &nbsp;&nbsp; folks: **834**  &nbsp;&nbsp; `132 stars today`
 
 1. [nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
     - A high-performance algorithmic trading platform and event-driven backtester
-    - language: **Rust** &nbsp;&nbsp; stars: **13,255** &nbsp;&nbsp; folks: **1,437**  &nbsp;&nbsp; `293 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **13,263** &nbsp;&nbsp; folks: **1,437**  &nbsp;&nbsp; `293 stars today`
 
 1. [nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all)
     - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-    - language: **C++** &nbsp;&nbsp; stars: **74,006** &nbsp;&nbsp; folks: **8,076**  &nbsp;&nbsp; `13 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **74,013** &nbsp;&nbsp; folks: **8,076**  &nbsp;&nbsp; `13 stars today`
 
 1. [polarsource / polar](https://github.com/polarsource/polar)
     - An open source engine for your digital products. Sell SaaS and digital products in minutes.
-    - language: **Python** &nbsp;&nbsp; stars: **6,305** &nbsp;&nbsp; folks: **394**  &nbsp;&nbsp; `259 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,310** &nbsp;&nbsp; folks: **394**  &nbsp;&nbsp; `259 stars today`
 
 1. [exo-explore / exo](https://github.com/exo-explore/exo)
     - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    - language: **Python** &nbsp;&nbsp; stars: **29,408** &nbsp;&nbsp; folks: **1,884**  &nbsp;&nbsp; `62 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **29,421** &nbsp;&nbsp; folks: **1,884**  &nbsp;&nbsp; `62 stars today`
 
 1. [steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth)
     - The simplest way to protect your apps with a login screen.
-    - language: **Go** &nbsp;&nbsp; stars: **3,968** &nbsp;&nbsp; folks: **109**  &nbsp;&nbsp; `81 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **3,984** &nbsp;&nbsp; folks: **110**  &nbsp;&nbsp; `81 stars today`
 
 1. [lfnovo / open-notebook](https://github.com/lfnovo/open-notebook)
     - An Open Source implementation of Notebook LM with more flexibility and features
-    - language: **Python** &nbsp;&nbsp; stars: **2,738** &nbsp;&nbsp; folks: **265**  &nbsp;&nbsp; `132 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,765** &nbsp;&nbsp; folks: **266**  &nbsp;&nbsp; `132 stars today`
 
 1. [libsdl-org / SDL](https://github.com/libsdl-org/SDL)
     - Simple Directmedia Layer
-    - language: **C** &nbsp;&nbsp; stars: **13,014** &nbsp;&nbsp; folks: **2,288**  &nbsp;&nbsp; `14 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **13,019** &nbsp;&nbsp; folks: **2,288**  &nbsp;&nbsp; `14 stars today`
 
 1. [sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
     - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-    - language: **Python** &nbsp;&nbsp; stars: **21,511** &nbsp;&nbsp; folks: **2,088**  &nbsp;&nbsp; `132 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **21,530** &nbsp;&nbsp; folks: **2,088**  &nbsp;&nbsp; `132 stars today`
 
 1. [openai / openai-python](https://github.com/openai/openai-python)
     - The official Python library for the OpenAI API
-    - language: **Python** &nbsp;&nbsp; stars: **28,053** &nbsp;&nbsp; folks: **4,150**  &nbsp;&nbsp; `355 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **28,067** &nbsp;&nbsp; folks: **4,151**  &nbsp;&nbsp; `355 stars today`
 
 1. [tadata-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
     - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
-    - language: **Python** &nbsp;&nbsp; stars: **6,962** &nbsp;&nbsp; folks: **577**  &nbsp;&nbsp; `88 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,981** &nbsp;&nbsp; folks: **577**  &nbsp;&nbsp; `88 stars today`
 
 1. [datawhalechina / self-llm](https://github.com/datawhalechina/self-llm)
     - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **22,846** &nbsp;&nbsp; folks: **2,304**  &nbsp;&nbsp; `220 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **22,854** &nbsp;&nbsp; folks: **2,304**  &nbsp;&nbsp; `220 stars today`
 
 1. [zumerlab / snapdom](https://github.com/zumerlab/snapdom)
     - snapDOM captures HTML elements to images with exceptional speed and accuracy.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **4,854** &nbsp;&nbsp; folks: **157**  &nbsp;&nbsp; `52 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **4,863** &nbsp;&nbsp; folks: **157**  &nbsp;&nbsp; `52 stars today`
 
 
 ## 近一周热门仓库
 
 1. [dyad-sh / dyad](https://github.com/dyad-sh/dyad)
     - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,805** &nbsp;&nbsp; folks: **1,098**  &nbsp;&nbsp; `8,863 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,815** &nbsp;&nbsp; folks: **1,098**  &nbsp;&nbsp; `8,863 stars this week`
 
 1. [nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
     - A high-performance algorithmic trading platform and event-driven backtester
-    - language: **Rust** &nbsp;&nbsp; stars: **13,255** &nbsp;&nbsp; folks: **1,437**  &nbsp;&nbsp; `2,976 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **13,263** &nbsp;&nbsp; folks: **1,437**  &nbsp;&nbsp; `2,976 stars this week`
 
 1. [microsoft / mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
     - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-    - language: **Python** &nbsp;&nbsp; stars: **8,266** &nbsp;&nbsp; folks: **2,231**  &nbsp;&nbsp; `2,113 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **8,269** &nbsp;&nbsp; folks: **2,231**  &nbsp;&nbsp; `2,113 stars this week`
 
 1. [ollama / ollama](https://github.com/ollama/ollama)
     - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
-    - language: **Go** &nbsp;&nbsp; stars: **149,672** &nbsp;&nbsp; folks: **12,762**  &nbsp;&nbsp; `1,344 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **149,678** &nbsp;&nbsp; folks: **12,762**  &nbsp;&nbsp; `1,344 stars this week`
 
 1. [actualbudget / actual](https://github.com/actualbudget/actual)
     - A local-first personal finance app
-    - language: **TypeScript** &nbsp;&nbsp; stars: **21,379** &nbsp;&nbsp; folks: **1,720**  &nbsp;&nbsp; `794 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **21,382** &nbsp;&nbsp; folks: **1,720**  &nbsp;&nbsp; `794 stars this week`
 
 1. [openai / codex](https://github.com/openai/codex)
     - Lightweight coding agent that runs in your terminal
-    - language: **Rust** &nbsp;&nbsp; stars: **33,198** &nbsp;&nbsp; folks: **3,843**  &nbsp;&nbsp; `1,040 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **33,233** &nbsp;&nbsp; folks: **3,843**  &nbsp;&nbsp; `1,040 stars this week`
 
 1. [openai / openai-cookbook](https://github.com/openai/openai-cookbook)
     - Examples and guides for using the OpenAI API
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **66,720** &nbsp;&nbsp; folks: **11,050**  &nbsp;&nbsp; `882 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **66,723** &nbsp;&nbsp; folks: **11,051**  &nbsp;&nbsp; `882 stars this week`
 
 1. [ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp)
     - LLM inference in C/C++
-    - language: **C++** &nbsp;&nbsp; stars: **84,402** &nbsp;&nbsp; folks: **12,634**  &nbsp;&nbsp; `620 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **84,403** &nbsp;&nbsp; folks: **12,635**  &nbsp;&nbsp; `620 stars this week`
 
 1. [9001 / copyparty](https://github.com/9001/copyparty)
     - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-    - language: **Python** &nbsp;&nbsp; stars: **22,232** &nbsp;&nbsp; folks: **790**  &nbsp;&nbsp; `4,696 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **22,250** &nbsp;&nbsp; folks: **790**  &nbsp;&nbsp; `4,696 stars this week`
 
 1. [jesseduffield / lazygit](https://github.com/jesseduffield/lazygit)
     - simple terminal UI for git commands
-    - language: **Go** &nbsp;&nbsp; stars: **63,235** &nbsp;&nbsp; folks: **2,171**  &nbsp;&nbsp; `684 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **63,242** &nbsp;&nbsp; folks: **2,172**  &nbsp;&nbsp; `684 stars this week`
 
 1. [lvgl / lvgl](https://github.com/lvgl/lvgl)
     - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
@@ -122,47 +122,47 @@
 
 1. [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB)
     - Investment Research for Everyone, Everywhere.
-    - language: **Python** &nbsp;&nbsp; stars: **48,743** &nbsp;&nbsp; folks: **4,507**  &nbsp;&nbsp; `6,588 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **48,746** &nbsp;&nbsp; folks: **4,508**  &nbsp;&nbsp; `6,588 stars this month`
 
 1. [dyad-sh / dyad](https://github.com/dyad-sh/dyad)
     - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,805** &nbsp;&nbsp; folks: **1,098**  &nbsp;&nbsp; `9,918 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,816** &nbsp;&nbsp; folks: **1,098**  &nbsp;&nbsp; `9,918 stars this month`
 
 1. [musistudio / claude-code-router](https://github.com/musistudio/claude-code-router)
     - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **11,678** &nbsp;&nbsp; folks: **862**  &nbsp;&nbsp; `8,447 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **11,690** &nbsp;&nbsp; folks: **864**  &nbsp;&nbsp; `8,447 stars this month`
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **70,718** &nbsp;&nbsp; folks: **3,829**  &nbsp;&nbsp; `10,901 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **70,721** &nbsp;&nbsp; folks: **3,830**  &nbsp;&nbsp; `10,901 stars this month`
 
 1. [langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **7,340** &nbsp;&nbsp; folks: **968**  &nbsp;&nbsp; `3,076 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,343** &nbsp;&nbsp; folks: **968**  &nbsp;&nbsp; `3,076 stars this month`
 
 1. [anthropics / claude-code](https://github.com/anthropics/claude-code)
     - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **28,865** &nbsp;&nbsp; folks: **1,636**  &nbsp;&nbsp; `10,792 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **28,873** &nbsp;&nbsp; folks: **1,636**  &nbsp;&nbsp; `10,792 stars this month`
 
 1. [hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
     - A curated list of awesome commands, files, and workflows for Claude Code
-    - language: **Python** &nbsp;&nbsp; stars: **9,558** &nbsp;&nbsp; folks: **504**  &nbsp;&nbsp; `6,209 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **9,570** &nbsp;&nbsp; folks: **506**  &nbsp;&nbsp; `6,209 stars this month`
 
 1. [frappe / hrms](https://github.com/frappe/hrms)
     - Open Source HR and Payroll Software
-    - language: **Python** &nbsp;&nbsp; stars: **5,933** &nbsp;&nbsp; folks: **1,517**  &nbsp;&nbsp; `3,241 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **5,934** &nbsp;&nbsp; folks: **1,518**  &nbsp;&nbsp; `3,241 stars this month`
 
 1. [sst / opencode](https://github.com/sst/opencode)
     - AI coding agent, built for the terminal.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **18,400** &nbsp;&nbsp; folks: **1,157**  &nbsp;&nbsp; `7,893 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **18,411** &nbsp;&nbsp; folks: **1,159**  &nbsp;&nbsp; `7,893 stars this month`
 
 1. [gorhill / uBlock](https://github.com/gorhill/uBlock)
     - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **57,459** &nbsp;&nbsp; folks: **3,655**  &nbsp;&nbsp; `2,605 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **57,462** &nbsp;&nbsp; folks: **3,655**  &nbsp;&nbsp; `2,605 stars this month`
 
 1. [getzep / graphiti](https://github.com/getzep/graphiti)
     - Build Real-Time Knowledge Graphs for AI Agents
-    - language: **Python** &nbsp;&nbsp; stars: **16,245** &nbsp;&nbsp; folks: **1,401**  &nbsp;&nbsp; `4,084 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **16,249** &nbsp;&nbsp; folks: **1,401**  &nbsp;&nbsp; `4,084 stars this month`
 
 
 ## 历史归档
