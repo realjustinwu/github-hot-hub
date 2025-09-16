@@ -10,96 +10,96 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
-`更新时间：2025-09-17 00:30:08 +0800`
+`更新时间：2025-09-17 01:20:38 +0800`
 
 ## 今日热门仓库
 
 1. [microsoft / markitdown](https://github.com/microsoft/markitdown)
     - Python tool for converting files and office documents to Markdown.
-    - language: **Python** &nbsp;&nbsp; stars: **75,302** &nbsp;&nbsp; folks: **4,172**  &nbsp;&nbsp; `790 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **75,376** &nbsp;&nbsp; folks: **4,174**  &nbsp;&nbsp; `790 stars today`
 
 1. [ml-explore / mlx-lm](https://github.com/ml-explore/mlx-lm)
     - Run LLMs with MLX
-    - language: **Python** &nbsp;&nbsp; stars: **2,216** &nbsp;&nbsp; folks: **241**  &nbsp;&nbsp; `118 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **2,223** &nbsp;&nbsp; folks: **241**  &nbsp;&nbsp; `118 stars today`
 
 1. [dataease / SQLBot](https://github.com/dataease/SQLBot)
     - 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    - language: **Python** &nbsp;&nbsp; stars: **1,803** &nbsp;&nbsp; folks: **212**  &nbsp;&nbsp; `104 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **1,812** &nbsp;&nbsp; folks: **212**  &nbsp;&nbsp; `104 stars today`
 
 1. [SkyworkAI / DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)
     - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **2,239** &nbsp;&nbsp; folks: **316**  &nbsp;&nbsp; `335 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **2,259** &nbsp;&nbsp; folks: **317**  &nbsp;&nbsp; `129 stars today`
 
 1. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
     - An AI Hedge Fund Team
-    - language: **Python** &nbsp;&nbsp; stars: **40,497** &nbsp;&nbsp; folks: **7,143**  &nbsp;&nbsp; `309 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **40,500** &nbsp;&nbsp; folks: **7,144**  &nbsp;&nbsp; `309 stars today`
 
 1. [ccxt / ccxt](https://github.com/ccxt/ccxt)
     - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
-    - language: **Python** &nbsp;&nbsp; stars: **38,614** &nbsp;&nbsp; folks: **8,198**  &nbsp;&nbsp; `270 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **38,619** &nbsp;&nbsp; folks: **8,198**  &nbsp;&nbsp; `270 stars today`
 
 1. [HKUDS / DeepCode](https://github.com/HKUDS/DeepCode)
     - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    - language: **Python** &nbsp;&nbsp; stars: **6,500** &nbsp;&nbsp; folks: **879**  &nbsp;&nbsp; `309 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **6,508** &nbsp;&nbsp; folks: **879**  &nbsp;&nbsp; `309 stars today`
 
 1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
     - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
-    - language: **Python** &nbsp;&nbsp; stars: **54,025** &nbsp;&nbsp; folks: **8,622**  &nbsp;&nbsp; `61 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **54,043** &nbsp;&nbsp; folks: **8,623**  &nbsp;&nbsp; `61 stars today`
 
 1. [Plachtaa / seed-vc](https://github.com/Plachtaa/seed-vc)
     - zero-shot voice conversion & singing voice conversion, with real-time support
-    - language: **Python** &nbsp;&nbsp; stars: **3,081** &nbsp;&nbsp; folks: **366**  &nbsp;&nbsp; `35 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **3,087** &nbsp;&nbsp; folks: **367**  &nbsp;&nbsp; `35 stars today`
 
 1. [BasedHardware / omi](https://github.com/BasedHardware/omi)
     - AI wearables. Put it on, speak, transcribe, automatically
-    - language: **C** &nbsp;&nbsp; stars: **6,459** &nbsp;&nbsp; folks: **962**  &nbsp;&nbsp; `83 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **6,471** &nbsp;&nbsp; folks: **962**  &nbsp;&nbsp; `143 stars today`
 
 1. [mnh-jansson / open-battery-information](https://github.com/mnh-jansson/open-battery-information)
     - 无
-    - language: **C++** &nbsp;&nbsp; stars: **508** &nbsp;&nbsp; folks: **107**  &nbsp;&nbsp; `92 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **510** &nbsp;&nbsp; folks: **107**  &nbsp;&nbsp; `92 stars today`
 
 1. [ArthurBrussee / brush](https://github.com/ArthurBrussee/brush)
     - 3D Reconstruction for all
-    - language: **Rust** &nbsp;&nbsp; stars: **2,359** &nbsp;&nbsp; folks: **106**  &nbsp;&nbsp; `110 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **2,370** &nbsp;&nbsp; folks: **107**  &nbsp;&nbsp; `110 stars today`
 
 1. [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
     - PowerShell for every system!
-    - language: **C#** &nbsp;&nbsp; stars: **49,854** &nbsp;&nbsp; folks: **7,922**  &nbsp;&nbsp; `156 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **49,865** &nbsp;&nbsp; folks: **7,921**  &nbsp;&nbsp; `156 stars today`
 
 1. [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
     - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,862** &nbsp;&nbsp; folks: **2,581**  &nbsp;&nbsp; `363 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,880** &nbsp;&nbsp; folks: **2,583**  &nbsp;&nbsp; `363 stars today`
 
 1. [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
     - All Algorithms implemented in Python
-    - language: **Python** &nbsp;&nbsp; stars: **207,177** &nbsp;&nbsp; folks: **47,802**  &nbsp;&nbsp; `59 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **207,190** &nbsp;&nbsp; folks: **47,803**  &nbsp;&nbsp; `59 stars today`
 
 
 ## 近一周热门仓库
 
 1. [Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **7,532** &nbsp;&nbsp; folks: **843**  &nbsp;&nbsp; `2,940 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **7,535** &nbsp;&nbsp; folks: **843**  &nbsp;&nbsp; `2,940 stars this week`
 
 1. [modelcontextprotocol / registry](https://github.com/modelcontextprotocol/registry)
     - A community driven registry service for Model Context Protocol (MCP) servers.
-    - language: **Go** &nbsp;&nbsp; stars: **4,338** &nbsp;&nbsp; folks: **326**  &nbsp;&nbsp; `2,032 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **4,346** &nbsp;&nbsp; folks: **326**  &nbsp;&nbsp; `2,032 stars this week`
 
 1. [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell)
     - PowerShell for every system!
-    - language: **C#** &nbsp;&nbsp; stars: **49,854** &nbsp;&nbsp; folks: **7,922**  &nbsp;&nbsp; `1,395 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **49,865** &nbsp;&nbsp; folks: **7,921**  &nbsp;&nbsp; `1,395 stars this week`
 
 1. [CorentinJ / Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
     - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-    - language: **Python** &nbsp;&nbsp; stars: **56,085** &nbsp;&nbsp; folks: **9,176**  &nbsp;&nbsp; `651 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **56,087** &nbsp;&nbsp; folks: **9,176**  &nbsp;&nbsp; `651 stars this week`
 
 1. [Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows)
     - all of the workflows of n8n i could find (also from the site itself)
-    - language: **HTML** &nbsp;&nbsp; stars: **30,747** &nbsp;&nbsp; folks: **1,521**  &nbsp;&nbsp; `3,377 stars this week`
+    - language: **HTML** &nbsp;&nbsp; stars: **30,759** &nbsp;&nbsp; folks: **1,531**  &nbsp;&nbsp; `3,377 stars this week`
 
 1. [vercel / examples](https://github.com/vercel/examples)
     - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,688** &nbsp;&nbsp; folks: **1,443**  &nbsp;&nbsp; `596 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,689** &nbsp;&nbsp; folks: **1,443**  &nbsp;&nbsp; `596 stars this week`
 
 1. [grpc / grpc-go](https://github.com/grpc/grpc-go)
     - The Go language implementation of gRPC. HTTP/2 based RPC
@@ -107,66 +107,66 @@
 
 1. [microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
     - 12 Lessons to Get Started Building AI Agents
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **38,722** &nbsp;&nbsp; folks: **12,478**  &nbsp;&nbsp; `1,853 stars this week`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **38,725** &nbsp;&nbsp; folks: **12,480**  &nbsp;&nbsp; `1,853 stars this week`
 
 1. [ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica)
     - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    - language: **TypeScript** &nbsp;&nbsp; stars: **24,862** &nbsp;&nbsp; folks: **2,581**  &nbsp;&nbsp; `601 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **24,880** &nbsp;&nbsp; folks: **2,583**  &nbsp;&nbsp; `601 stars this week`
 
 1. [heroui-inc / heroui](https://github.com/heroui-inc/heroui)
     - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-    - language: **TypeScript** &nbsp;&nbsp; stars: **26,488** &nbsp;&nbsp; folks: **1,932**  &nbsp;&nbsp; `998 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **26,491** &nbsp;&nbsp; folks: **1,933**  &nbsp;&nbsp; `998 stars this week`
 
 1. [zama-ai / fhevm](https://github.com/zama-ai/fhevm)
     - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-    - language: **Rust** &nbsp;&nbsp; stars: **19,171** &nbsp;&nbsp; folks: **801**  &nbsp;&nbsp; `1,298 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **19,172** &nbsp;&nbsp; folks: **802**  &nbsp;&nbsp; `1,298 stars this week`
 
 1. [Vanilagy / mediabunny](https://github.com/Vanilagy/mediabunny)
     - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **3,165** &nbsp;&nbsp; folks: **97**  &nbsp;&nbsp; `890 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **3,167** &nbsp;&nbsp; folks: **97**  &nbsp;&nbsp; `890 stars this week`
 
 1. [ml-explore / mlx-lm](https://github.com/ml-explore/mlx-lm)
     - Run LLMs with MLX
-    - language: **Python** &nbsp;&nbsp; stars: **2,216** &nbsp;&nbsp; folks: **241**  &nbsp;&nbsp; `316 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **2,223** &nbsp;&nbsp; folks: **241**  &nbsp;&nbsp; `316 stars this week`
 
 1. [google / material-design-icons](https://github.com/google/material-design-icons)
     - Material Design icons by Google (Material Symbols)
-    - language: **无** &nbsp;&nbsp; stars: **52,239** &nbsp;&nbsp; folks: **9,676**  &nbsp;&nbsp; `191 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **52,241** &nbsp;&nbsp; folks: **9,676**  &nbsp;&nbsp; `191 stars this week`
 
 1. [twitter / the-algorithm](https://github.com/twitter/the-algorithm)
     - Source code for the X Recommendation Algorithm
-    - language: **Scala** &nbsp;&nbsp; stars: **66,630** &nbsp;&nbsp; folks: **12,520**  &nbsp;&nbsp; `3,079 stars this week`
+    - language: **Scala** &nbsp;&nbsp; stars: **66,633** &nbsp;&nbsp; folks: **12,520**  &nbsp;&nbsp; `3,079 stars this week`
 
 1. [trueadm / ripple](https://github.com/trueadm/ripple)
     - the elegant TypeScript UI framework
-    - language: **JavaScript** &nbsp;&nbsp; stars: **4,815** &nbsp;&nbsp; folks: **174**  &nbsp;&nbsp; `2,863 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **4,818** &nbsp;&nbsp; folks: **174**  &nbsp;&nbsp; `2,863 stars this week`
 
 1. [ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder)
     - Scripts to build a trimmed-down Windows 11 image.
-    - language: **PowerShell** &nbsp;&nbsp; stars: **13,857** &nbsp;&nbsp; folks: **1,093**  &nbsp;&nbsp; `963 stars this week`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **13,858** &nbsp;&nbsp; folks: **1,093**  &nbsp;&nbsp; `963 stars this week`
 
 1. [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
     - 人人都能用英语
-    - language: **TypeScript** &nbsp;&nbsp; stars: **28,313** &nbsp;&nbsp; folks: **4,123**  &nbsp;&nbsp; `1,424 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **28,316** &nbsp;&nbsp; folks: **4,124**  &nbsp;&nbsp; `1,424 stars this week`
 
 1. [HKUDS / AutoAgent](https://github.com/HKUDS/AutoAgent)
     - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
-    - language: **Python** &nbsp;&nbsp; stars: **6,967** &nbsp;&nbsp; folks: **918**  &nbsp;&nbsp; `906 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **6,971** &nbsp;&nbsp; folks: **919**  &nbsp;&nbsp; `906 stars this week`
 
 
 ## 近一月热门仓库
 
 1. [moeru-ai / airi](https://github.com/moeru-ai/airi)
     - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    - language: **Vue** &nbsp;&nbsp; stars: **13,932** &nbsp;&nbsp; folks: **1,184**  &nbsp;&nbsp; `11,725 stars this month`
+    - language: **Vue** &nbsp;&nbsp; stars: **13,935** &nbsp;&nbsp; folks: **1,184**  &nbsp;&nbsp; `11,725 stars this month`
 
 1. [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
     - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    - language: **JavaScript** &nbsp;&nbsp; stars: **20,565** &nbsp;&nbsp; folks: **3,234**  &nbsp;&nbsp; `12,174 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **20,569** &nbsp;&nbsp; folks: **3,234**  &nbsp;&nbsp; `12,174 stars this month`
 
 1. [twitter / the-algorithm](https://github.com/twitter/the-algorithm)
     - Source code for the X Recommendation Algorithm
-    - language: **Scala** &nbsp;&nbsp; stars: **66,630** &nbsp;&nbsp; folks: **12,520**  &nbsp;&nbsp; `3,149 stars this month`
+    - language: **Scala** &nbsp;&nbsp; stars: **66,633** &nbsp;&nbsp; folks: **12,520**  &nbsp;&nbsp; `3,149 stars this month`
 
 1. [winapps-org / winapps](https://github.com/winapps-org/winapps)
     - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
@@ -178,51 +178,51 @@
 
 1. [simstudioai / sim](https://github.com/simstudioai/sim)
     - Open-source platform to build and deploy AI agent workflows.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,052** &nbsp;&nbsp; folks: **1,879**  &nbsp;&nbsp; `7,904 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,053** &nbsp;&nbsp; folks: **1,880**  &nbsp;&nbsp; `7,904 stars this month`
 
 1. [dockur / windows](https://github.com/dockur/windows)
     - Windows inside a Docker container.
-    - language: **Shell** &nbsp;&nbsp; stars: **45,483** &nbsp;&nbsp; folks: **3,312**  &nbsp;&nbsp; `8,693 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **45,484** &nbsp;&nbsp; folks: **3,313**  &nbsp;&nbsp; `8,693 stars this month`
 
 1. [Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **7,532** &nbsp;&nbsp; folks: **843**  &nbsp;&nbsp; `3,214 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,535** &nbsp;&nbsp; folks: **843**  &nbsp;&nbsp; `3,214 stars this month`
 
 1. [openai / codex](https://github.com/openai/codex)
     - Lightweight coding agent that runs in your terminal
-    - language: **Rust** &nbsp;&nbsp; stars: **41,419** &nbsp;&nbsp; folks: **4,816**  &nbsp;&nbsp; `6,084 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **41,434** &nbsp;&nbsp; folks: **4,822**  &nbsp;&nbsp; `6,084 stars this month`
 
 1. [coleam00 / Archon](https://github.com/coleam00/Archon)
     - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    - language: **Python** &nbsp;&nbsp; stars: **12,106** &nbsp;&nbsp; folks: **2,099**  &nbsp;&nbsp; `6,357 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **12,108** &nbsp;&nbsp; folks: **2,100**  &nbsp;&nbsp; `6,357 stars this month`
 
 1. [MODSetter / SurfSense](https://github.com/MODSetter/SurfSense)
     - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    - language: **Python** &nbsp;&nbsp; stars: **7,782** &nbsp;&nbsp; folks: **590**  &nbsp;&nbsp; `1,399 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **7,783** &nbsp;&nbsp; folks: **590**  &nbsp;&nbsp; `1,399 stars this month`
 
 1. [google / googletest](https://github.com/google/googletest)
     - GoogleTest - Google Testing and Mocking Framework
-    - language: **C++** &nbsp;&nbsp; stars: **37,128** &nbsp;&nbsp; folks: **10,528**  &nbsp;&nbsp; `582 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **37,129** &nbsp;&nbsp; folks: **10,528**  &nbsp;&nbsp; `582 stars this month`
 
 1. [microsoft / qlib](https://github.com/microsoft/qlib)
     - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    - language: **Python** &nbsp;&nbsp; stars: **30,612** &nbsp;&nbsp; folks: **4,731**  &nbsp;&nbsp; `2,361 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **30,615** &nbsp;&nbsp; folks: **4,730**  &nbsp;&nbsp; `2,361 stars this month`
 
 1. [basecamp / omarchy](https://github.com/basecamp/omarchy)
     - Opinionated Arch/Hyprland Setup
-    - language: **Shell** &nbsp;&nbsp; stars: **8,219** &nbsp;&nbsp; folks: **923**  &nbsp;&nbsp; `3,932 stars this month`
+    - language: **Shell** &nbsp;&nbsp; stars: **8,225** &nbsp;&nbsp; folks: **922**  &nbsp;&nbsp; `3,932 stars this month`
 
 1. [trufflesecurity / trufflehog](https://github.com/trufflesecurity/trufflehog)
     - Find, verify, and analyze leaked credentials
-    - language: **Go** &nbsp;&nbsp; stars: **21,818** &nbsp;&nbsp; folks: **2,041**  &nbsp;&nbsp; `1,550 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **21,824** &nbsp;&nbsp; folks: **2,042**  &nbsp;&nbsp; `1,550 stars this month`
 
 1. [zed-industries / zed](https://github.com/zed-industries/zed)
     - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    - language: **Rust** &nbsp;&nbsp; stars: **65,747** &nbsp;&nbsp; folks: **5,283**  &nbsp;&nbsp; `2,058 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **65,749** &nbsp;&nbsp; folks: **5,283**  &nbsp;&nbsp; `2,058 stars this month`
 
 1. [laramies / theHarvester](https://github.com/laramies/theHarvester)
     - E-mails, subdomains and names Harvester - OSINT
-    - language: **Python** &nbsp;&nbsp; stars: **14,421** &nbsp;&nbsp; folks: **2,303**  &nbsp;&nbsp; `1,235 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **14,422** &nbsp;&nbsp; folks: **2,303**  &nbsp;&nbsp; `1,235 stars this month`
 
 
 ## 历史归档
